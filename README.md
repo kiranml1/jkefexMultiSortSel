@@ -1,4 +1,30 @@
-jkefexMultiSortSel
-==================
+# Jkefexmultisortsel
 
-jQuery Multi-Sort Plugin
+jQuery Multiple Select Sort Plug-in
+
+## Getting Started
+Download the [production version][min] or the [development version][max].
+
+[min]: https://raw.github.com/kiranml1/jkefexMultiSortSel/master/dist/jkefexMultiSortSel.min.js
+[max]: https://raw.github.com/kiranml1/jkefexMultiSortSel/master/dist/jkefexMultiSortSel.js
+
+In your web page:
+
+```html
+<script src="jquery.js"></script>
+<script src="dist/jkefexMultiSortSel.min.js"></script>
+<script>
+jQuery(function($) {
+  $.jkefexMultiSortSel(); // "awesome"
+});
+</script>
+```
+
+## Documentation
+_(Coming soon)_
+
+## Examples
+_(Coming soon)_
+
+## Release History
+_(Nothing yet)_
